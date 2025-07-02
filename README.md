@@ -23,7 +23,7 @@ The dataset contains bank customer information including:
 **Download**: Place the CSV file as `bank-churners.csv` in the project directory
 
 ## Key Results
-- **72% recall** in identifying churning customers (vs 9% baseline)
+- **72% recall** in identifying churning customers (vs 17% baseline)
 - **€836,550 business value** generated through ML optimization
 - **28% miss rate** (down from 100% without ML intervention)
 - Achieved optimal performance with learning rate 0.1 and optimized threshold
